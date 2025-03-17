@@ -1,5 +1,6 @@
-![omae_github](https://github.com/user-attachments/assets/df9ffd38-f657-4543-aaba-0c16ef25db69)
-[![qgis-version](https://img.shields.io/badge/QGIS-Desktop-3.40.4-blue.svg)](https://qgis.org/download/)
+
+![arabian_vacc_QGIS_banner](https://github.com/user-attachments/assets/f4050857-bbe8-4123-b51d-fba3d240adc9)
+[![qgis-version](https://img.shields.io/badge/qgis-desktop-3.40.4!-blue.svg)](https://qgis.org/download/)
 
 # Arabian vACC - QGIS Ground Layouts
 Welcome to the official GitHub repository for the Arabian Virtual Area Control Center (vACC), specifically focused on controller client ground layouts designed for use with the Ground Radar Plugin (GRplugin). This repository contains open-source resources intended for use within the VATSIM network, offering an invaluable tool for air traffic controllers in the Arabian vACC to visualize and manage ground operations more effectively.
