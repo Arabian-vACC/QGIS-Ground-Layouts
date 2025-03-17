@@ -1,0 +1,13 @@
+<!DOCTYPE shortcuts>
+<qgsshortcuts locale="en_US" version="1.0">
+    <act name="Add Line Feature" shortcut="N"/>
+    <act name="Add Polygon Feature" shortcut="N"/>
+    <act name="Copy and Move Feature(s)" shortcut="B"/>
+    <act name="Identify Features" shortcut="I"/>
+    <act name="Merge Selected Features" shortcut="M"/>
+    <act name="Move Feature(s)" shortcut="V"/>
+    <act name="Rotate Feature(s)" shortcut="R"/>
+    <act name="Select Feature(s)" shortcut="S"/>
+    <act name="Toggle Snapping" shortcut="D"/>
+    <act name="Vertex Tool (All Layers)" shortcut="A"/>
+</qgsshortcuts>
